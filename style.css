@@ -9,3 +9,13 @@ body {
      width: 800px;
      text-align: center;
     }
+
+
+    .content {
+        margin: 0 auto;
+        width: 800px;
+        text-align: center;
+       }
+       .clickable {
+        cursor:hand;
+       }
